@@ -1,0 +1,10 @@
+insert into products values (null, 'Coffee mug', 'Kitchen accesories', 9.99, 5);
+insert into products values (null, 'Coffee cup', 'Kitchen accesories', 4.99, 3);
+insert into products values (null, 'Body towel', 'Bed Bath', 5.99, 3);
+insert into products values (null, 'Hands towel', 'Bed Bath', 3.99, 3);
+insert into products values (null, 'Girl Hoddie', 'Junior Clothes', 19.99, 7);
+insert into products values (null, 'Boy Hoddie', 'Junior Clothes', 19.99, 7);
+insert into products values (null, 'Android tablet', 'Technology', 99.99, 2);
+insert into products values (null, 'Android phone', 'Technology', 69.99, 7);
+insert into products values (null, 'Backpack', 'Sports accesories', 39.99, 4);
+insert into products values (null, 'Running Tennis', 'Sports clothes', 99.99, 8);
